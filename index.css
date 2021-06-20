@@ -1,0 +1,87 @@
+/* body, html {
+  height: 100%;
+} */
+
+
+.name{
+ font-family: Impact, Charcoal, sans-serif;
+ font-weight:400;
+ font-size: 50px;
+ color: gray;
+ margin-left: 20px;
+ margin-bottom: 0%;
+ 
+}
+.different{
+ color: coral;
+}
+.designation{
+ font-family: Impact, Charcoal, sans-serif;
+  color: gray;
+  font-size: 20px;
+  margin-left:20px
+}
+.info{
+  font-family: Impact, Charcoal, sans-serif;
+  color: gray;
+  font-size: 20px;
+  margin-left:15px
+}
+.mail{
+ color:brown;
+}
+.underline{
+ width:50%
+}
+.description{
+ font-family:Tahoma;
+  color:gray;
+  font-weight:normal;
+  margin-left:20px;
+  margin-bottom:30px;
+}
+.wrapper{
+ margin-left: 20px;
+ margin-bottom: 30px;
+}
+.btn{
+ background-color:chocolate;
+ margin-left: 20px;
+ color:white;
+ border-radius:5px;
+ border-color: white;
+ height:30px;
+ width:150px
+ 
+ 
+}
+.btn a{
+ text-decoration: none;
+ background-color: chocolate;
+}
+.cv{
+ text-decoration: none;
+}
+.sub{
+ color:gray;
+ font-weight: bold;
+}
+.university-details{
+ margin-left: 20px;
+ display: flex;
+}
+.university{
+ margin-right: 300px;
+}
+.school-details{
+ margin-left: 20px;
+ display: flex;
+}
+.school{
+ margin-right: 335px;
+}
+img{
+ border-radius: 50%;
+ height:200px;
+ margin-left: 400px;
+}
